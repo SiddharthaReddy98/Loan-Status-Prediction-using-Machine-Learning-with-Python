@@ -1,4 +1,4 @@
-# Loan Eligibility Prediction Project Overview
+# Loan Status  Eligibility Prediction Project Overview
 
 This project aims to predict loan eligibility based on customer details using machine learning algorithms. The process involves several key steps, from data preprocessing to model training and evaluation. Here's an overview of the project steps:
 
